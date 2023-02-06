@@ -3,7 +3,7 @@ This repository contains an example reference system for MITRE's 2023 Embedded S
 (eCTF) - see https://ectf.mitre.org/ for details. This code is incomplete, insecure, and 
 does not meet MITRE standards for quality.  This code is being provided for educational 
 purposes to serve as a simple example that meets the minimum functional requirements for 
-the 2023 eCTF.  Use this code at your own risk! hello
+the 2023 eCTF.  Use this code at your own risk! GREETINGS FRIENDS IT IS I THE GREAT FOOEY
 ## Design Structure
 - `car` - source code for building car devices
 - `deployment` - source code for generating deployment-wide secrets
